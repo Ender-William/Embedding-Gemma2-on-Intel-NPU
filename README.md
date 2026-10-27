@@ -1,0 +1,1 @@
+# Embedding-Gemma2-on-Intel-NPU
