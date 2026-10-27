@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+cache/
+ov_cache/
+examples/assets/
+embedding_service/model/
+embedding_service/model/**/*.bin
+embedding_service/model/**/*.onnx.data
+embedding_service/model/**/*.data
+embedding_service/model/google--embeddinggemma-2/
